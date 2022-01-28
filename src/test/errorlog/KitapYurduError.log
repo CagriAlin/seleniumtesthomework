@@ -1,0 +1,506 @@
+2022-01-28 01:38:44 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 01:38:44 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 01:38:50 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 01:38:52 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 01:38:56 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 01:39:04 INFO  BaseSetup:43 - Hata:org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b52962527fc17c3aa66677bd79831535, clickElement {id=9474a319-37ea-4164-a0d0-83481fb18a7f}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54733}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54733/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (b52962527fc17c3aa66677bd79831535)] -> xpath: //i[@class="fa fa-heart"]]
+Session ID: b52962527fc17c3aa66677bd79831535
+2022-01-28 01:40:22 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 01:40:22 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 01:40:28 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 01:40:29 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 01:40:33 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 01:40:38 INFO  BaseSetup:43 - Hata:org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [528d7df657c0c44b34a1075e65a3d085, clickElement {id=5d894279-11d2-4538-8b71-7f1970042cdb}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54834}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54834/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (528d7df657c0c44b34a1075e65a3d085)] -> xpath: //i[@class="fa fa-heart"]]
+Session ID: 528d7df657c0c44b34a1075e65a3d085
+2022-01-28 01:41:00 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 01:41:00 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 01:41:06 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 01:41:07 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 01:41:11 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 01:41:19 INFO  BaseSetup:43 - Hata:org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <i class="fa fa-heart"></i> is not clickable at point (1342, 10). Other element would receive the click: <div id="cart">...</div>
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1ee20b88c97d1bdf4e49f5534ebf37f1, clickElement {id=819080a0-d014-4ff5-8b49-50be46bd135a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54922}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54922/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (1ee20b88c97d1bdf4e49f5534ebf37f1)] -> xpath: //i[@class="fa fa-heart"]]
+Session ID: 1ee20b88c97d1bdf4e49f5534ebf37f1
+2022-01-28 01:43:29 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 01:43:29 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 01:43:35 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 01:44:02 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 01:44:02 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 01:44:17 ERROR BaseSetup:38 - Hata: org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c2c3c9f81d6ddb5f08e849efa417b51d, findElement {using=id, value=login-email}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55215}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55215/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c2c3c9f81d6ddb5f08e849efa417b51d
+2022-01-28 01:44:29 INFO  BaseSetup:43 - Hata:org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c2c3c9f81d6ddb5f08e849efa417b51d, findElement {using=id, value=search-input}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55215}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55215/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c2c3c9f81d6ddb5f08e849efa417b51d
+2022-01-28 01:44:33 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 01:44:33 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 01:44:39 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 01:44:40 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 01:44:45 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 01:44:52 INFO  BaseSetup:43 - Hata:org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="add-to-favorites" onclick="addToFavorites(577332);" data-title="Favorilerime Ekle">...</a> is not clickable at point (1342, 13). Other element would receive the click: <div class="heading">...</div>
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2806c58e6a6d492015b1a10469c36727, clickElement {id=90f247de-ccc5-47c7-bcdf-6df0aa09fde9}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55285}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55285/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (2806c58e6a6d492015b1a10469c36727)] -> xpath: //a[@class="add-to-favorites"]]
+Session ID: 2806c58e6a6d492015b1a10469c36727
+2022-01-28 01:58:55 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 01:58:55 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 01:59:01 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 01:59:03 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 01:59:07 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 01:59:38 INFO  BaseSetup:44 - Hata:org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [698f1817eea321e3fdf6738cf48707a0, findElement {using=xpath, value=//div[@class="product-cr"][i]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63361}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63361/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 698f1817eea321e3fdf6738cf48707a0
+2022-01-28 02:00:11 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 02:00:12 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 02:00:17 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 02:00:19 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 02:00:23 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 02:00:26 INFO  BaseSetup:45 - Hata:org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1ea07864eb070f944e10bdb408f7c82d, clickElement {id=175a45dd-39e8-43f7-8f65-848c7b64e5da}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63478}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:63478/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (1ea07864eb070f944e10bdb408f7c82d)] -> xpath: //a[@class="add-to-favorites"][i]]
+Session ID: 1ea07864eb070f944e10bdb408f7c82d
+2022-01-28 12:28:31 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 12:28:31 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 12:28:37 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 12:28:39 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 12:28:43 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 12:28:46 INFO  BaseSetup:45 - Hata:org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ff55e4e20a72b1b65b9f5128cd4e0503, clickElement {id=395fb92d-5df8-4fa2-8268-1b866cb09103}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52366}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52366/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (ff55e4e20a72b1b65b9f5128cd4e0503)] -> xpath: //a[@class="add-to-favorites"][i]]
+Session ID: ff55e4e20a72b1b65b9f5128cd4e0503
+2022-01-28 12:31:33 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 12:31:33 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 12:31:39 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 12:31:41 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 12:31:45 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 12:31:48 INFO  BaseSetup:45 - Hata:org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [784324901d9281d2085a36d7e221cfd3, clickElement {id=0e353525-1926-4978-8746-335273273b5f}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52554}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52554/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (784324901d9281d2085a36d7e221cfd3)] -> xpath: //a[@data-title="Favorilerime Ekle"][i]]
+Session ID: 784324901d9281d2085a36d7e221cfd3
+2022-01-28 13:16:46 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 13:16:46 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 13:16:52 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 13:16:53 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 13:16:57 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 13:17:00 INFO  BaseSetup:39 - Favorilerime dört ürün eklendi
+2022-01-28 13:17:04 INFO  BaseSetup:44 - Favorilerime gidildi.
+2022-01-28 13:51:58 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 13:51:58 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 13:52:05 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 13:52:06 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 13:52:11 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 13:52:14 INFO  BaseSetup:41 - Hata:org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [eef516f18c02d628406551b7bc720697, clickElement {id=111407f8-534c-44d7-b630-74857d5c90ef}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58376}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58376/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (eef516f18c02d628406551b7bc720697)] -> xpath: //a[@onclick="addToFavorites(561234);" and text()]]
+Session ID: eef516f18c02d628406551b7bc720697
+2022-01-28 13:53:15 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 13:53:15 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 13:53:22 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 13:53:23 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 13:53:27 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 13:53:30 INFO  BaseSetup:40 - Hata:org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cd1cd825517c8f6ab2a4c30348d33741, clickElement {id=69daa223-4a1a-4115-8efd-06eb59496590}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58478}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58478/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (cd1cd825517c8f6ab2a4c30348d33741)] -> xpath: //a[@onclick="addToFavorites(561234);" and text()]]
+Session ID: cd1cd825517c8f6ab2a4c30348d33741
+2022-01-28 13:54:53 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 13:54:53 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 13:54:59 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 13:55:01 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 13:55:05 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 13:55:08 INFO  BaseSetup:41 - Hata:org.openqa.selenium.ElementNotInteractableException: element not interactable:  has no size and location
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [34d8fb48b17477dcf9ed9e9f486d1d59, actions {actions=[org.openqa.selenium.interactions.Sequence@241a0c3a]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58595}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58595/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 34d8fb48b17477dcf9ed9e9f486d1d59
+2022-01-28 14:11:36 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 14:11:36 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 14:11:42 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 14:11:50 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 14:11:54 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 14:11:59 INFO  BaseSetup:43 - Hata:org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="add-to-favorites" onclick="addToFavorites(586888);" data-title="Favorilerime Ekle">...</a> is not clickable at point (1354, 55). Other element would receive the click: <div class="heading">...</div>
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2bba1bc7626a8261a422f37c0bf271e7, clickElement {id=68db2c32-c840-4116-a599-7d84fe020bc5}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51312}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51312/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (2bba1bc7626a8261a422f37c0bf271e7)] -> xpath: //a[@class='add-to-favorites' and contains(@onclick,'addToFavorites(586888);')]]
+Session ID: 2bba1bc7626a8261a422f37c0bf271e7
+2022-01-28 14:13:59 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 14:13:59 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 14:14:06 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 14:14:15 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 14:14:19 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 14:14:28 INFO  BaseSetup:46 - Hata:org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a class="add-to-favorites" onclick="addToFavorites(586888);" data-title="Favorilerime Ekle">...</a> is not clickable at point (1354, 161). Other element would receive the click: <div class="swal2-container swal2-top-end ky-swal-cr swal2-backdrop-show" style="overflow-y: auto;">...</div>
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fb435d5d3b227d8648e97e4b48060089, clickElement {id=60fbeb4f-5949-4c7d-8f55-c27fbe169260}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51474}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51474/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (fb435d5d3b227d8648e97e4b48060089)] -> xpath: //a[@class='add-to-favorites' and contains(@onclick,'addToFavorites(586888);')]]
+Session ID: fb435d5d3b227d8648e97e4b48060089
+2022-01-28 14:15:36 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 14:15:36 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 14:16:01 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 14:16:01 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 14:16:08 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 14:16:10 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 14:16:14 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 14:16:22 INFO  BaseSetup:38 - Favorilerime dört ürün eklendi
+2022-01-28 14:16:26 INFO  BaseSetup:43 - Favorilerime gidildi.
+2022-01-28 14:16:27 INFO  BaseSetup:26 - Favorilere eklenemiş ürün adedi doğrulandı.
+2022-01-28 14:16:30 INFO  BaseSetup:29 - Anasayfaya gidildi.
+2022-01-28 14:16:32 INFO  BaseSetup:25 - Puan kataloğu açıldı
+2022-01-28 14:16:34 INFO  BaseSetup:28 - Türk klasikleri açıldı.
+2022-01-28 14:16:39 INFO  BaseSetup:33 - Yüksek oylama filtresi uygulandı.
+2022-01-28 14:16:43 INFO  BaseSetup:38 - Tüm kitaplar altından hobi katagorisi seçildi.
+2022-01-28 14:16:48 INFO  BaseSetup:43 - Rastegele ürün seçildi.
+2022-01-28 14:16:52 INFO  BaseSetup:48 - Favorilerime gidildi
+2022-01-28 14:16:52 INFO  BaseSetup:24 - Üçüncü ürün silindi.
+2022-01-28 14:16:53 INFO  BaseSetup:27 - Ürünün silindiği doğrulandı.
+2022-01-28 14:16:57 INFO  BaseSetup:32 - Sepetime gidildi.
+2022-01-28 14:16:58 INFO  BaseSetup:27 - Ürün adedi artırıldı.
+2022-01-28 14:17:01 INFO  BaseSetup:80 - Hata org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <td class="to-wishlist" style="text-align: right;">...</td> is not clickable at point (1129, 367). Other element would receive the click: <div class="swal2-container swal2-top-end ky-swal-cr swal2-backdrop-show" style="overflow-y: auto;">...</div>
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [26f8f607f50f22df7f9e01a3ce512a27, clickElement {id=a01eddc2-1bd9-4403-ad1f-b59a40d74e28}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51654}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:51654/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (26f8f607f50f22df7f9e01a3ce512a27)] -> xpath: //td[@class="to-wishlist"]]
+Session ID: 26f8f607f50f22df7f9e01a3ce512a27
+2022-01-28 14:17:02 INFO  BaseSetup:25 - Çıkış yapıldı.
+2022-01-28 14:17:02 INFO  BaseSetup:26 - ----------TEST SONU----------
+2022-01-28 14:23:43 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 14:23:43 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 14:23:49 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 14:23:51 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 14:23:55 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 14:24:33 INFO  BaseSetup:46 - Hata:org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //a[@class='add-to-favorites' and contains(@onclick,'addToFavorites(479137);')] (tried for 30 second(s) with 300 milliseconds interval)
+2022-01-28 14:25:05 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 14:25:05 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 14:25:30 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 14:25:30 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 14:25:36 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 14:25:37 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 14:25:41 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 14:25:49 INFO  BaseSetup:38 - Favorilerime dört ürün eklendi
+2022-01-28 14:25:53 INFO  BaseSetup:43 - Favorilerime gidildi.
+2022-01-28 14:25:55 INFO  BaseSetup:26 - Favorilere eklenemiş ürün adedi doğrulandı.
+2022-01-28 14:25:57 INFO  BaseSetup:29 - Anasayfaya gidildi.
+2022-01-28 14:25:59 INFO  BaseSetup:25 - Puan kataloğu açıldı
+2022-01-28 14:26:02 INFO  BaseSetup:28 - Türk klasikleri açıldı.
+2022-01-28 14:26:05 INFO  BaseSetup:33 - Yüksek oylama filtresi uygulandı.
+2022-01-28 14:26:10 INFO  BaseSetup:38 - Tüm kitaplar altından hobi katagorisi seçildi.
+2022-01-28 14:26:14 INFO  BaseSetup:43 - Rastegele ürün seçildi.
+2022-01-28 14:26:19 INFO  BaseSetup:48 - Favorilerime gidildi
+2022-01-28 14:26:19 INFO  BaseSetup:24 - Üçüncü ürün silindi.
+2022-01-28 14:26:20 INFO  BaseSetup:27 - Ürünün silindiği doğrulandı.
+2022-01-28 14:26:24 INFO  BaseSetup:32 - Sepetime gidildi.
+2022-01-28 14:26:25 INFO  BaseSetup:27 - Ürün adedi artırıldı.
+2022-01-28 14:26:28 INFO  BaseSetup:80 - Hata org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <td class="to-wishlist" style="text-align: right;">...</td> is not clickable at point (1127, 367). Other element would receive the click: <div class="swal2-container swal2-top-end ky-swal-cr swal2-backdrop-show" style="overflow-y: auto;">...</div>
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f9cd0ddf0431073db9a1058a9cf1d8b3, clickElement {id=e42aba1d-40bf-497f-990d-0e93dc777296}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52241}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52241/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (f9cd0ddf0431073db9a1058a9cf1d8b3)] -> css selector: .to-wishlist]
+Session ID: f9cd0ddf0431073db9a1058a9cf1d8b3
+2022-01-28 14:26:29 INFO  BaseSetup:25 - Çıkış yapıldı.
+2022-01-28 14:26:29 INFO  BaseSetup:26 - ----------TEST SONU----------
+2022-01-28 14:53:29 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 14:53:29 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 14:53:35 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 14:53:36 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 14:53:40 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 14:53:48 INFO  BaseSetup:38 - Favorilerime dört ürün eklendi
+2022-01-28 14:53:52 INFO  BaseSetup:43 - Favorilerime gidildi.
+2022-01-28 14:53:54 INFO  BaseSetup:26 - Favorilere eklenemiş ürün adedi doğrulandı.
+2022-01-28 14:53:56 INFO  BaseSetup:29 - Anasayfaya gidildi.
+2022-01-28 14:53:58 INFO  BaseSetup:25 - Puan kataloğu açıldı
+2022-01-28 14:54:00 INFO  BaseSetup:28 - Türk klasikleri açıldı.
+2022-01-28 14:54:04 INFO  BaseSetup:33 - Yüksek oylama filtresi uygulandı.
+2022-01-28 14:54:08 INFO  BaseSetup:38 - Tüm kitaplar altından hobi katagorisi seçildi.
+2022-01-28 14:54:13 INFO  BaseSetup:43 - Rastegele ürün seçildi.
+2022-01-28 14:54:17 INFO  BaseSetup:48 - Favorilerime gidildi
+2022-01-28 14:54:47 ERROR BaseSetup:34 - Hata org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //a[@class='add-to-favorites' and contains(@onclick,'addToFavorites(579686);')] (tried for 30 second(s) with 300 milliseconds interval)
+2022-01-28 14:55:02 ERROR BaseSetup:80 - Hata org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b6a73f3c7cd403a4f5fbbebaa7157fda, findElement {using=xpath, value=//input[@value="1"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52790}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52790/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b6a73f3c7cd403a4f5fbbebaa7157fda
+2022-01-28 14:55:14 ERROR BaseSetup:29 - Hata org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b6a73f3c7cd403a4f5fbbebaa7157fda, findElement {using=xpath, value=//a[@class="common-sprite" and text()='Merhaba ']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52790}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:52790/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: b6a73f3c7cd403a4f5fbbebaa7157fda
+2022-01-28 14:58:48 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 14:58:48 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 14:58:54 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 14:58:56 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 14:59:00 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 14:59:08 INFO  BaseSetup:38 - Favorilerime dört ürün eklendi
+2022-01-28 14:59:12 INFO  BaseSetup:43 - Favorilerime gidildi.
+2022-01-28 14:59:13 INFO  BaseSetup:26 - Favorilere eklenemiş ürün adedi doğrulandı.
+2022-01-28 14:59:15 INFO  BaseSetup:29 - Anasayfaya gidildi.
+2022-01-28 14:59:18 INFO  BaseSetup:25 - Puan kataloğu açıldı
+2022-01-28 14:59:20 INFO  BaseSetup:28 - Türk klasikleri açıldı.
+2022-01-28 14:59:24 INFO  BaseSetup:33 - Yüksek oylama filtresi uygulandı.
+2022-01-28 14:59:28 INFO  BaseSetup:38 - Tüm kitaplar altından hobi katagorisi seçildi.
+2022-01-28 14:59:33 INFO  BaseSetup:43 - Rastegele ürün seçildi.
+2022-01-28 14:59:36 INFO  BaseSetup:48 - Favorilerime gidildi
+2022-01-28 14:59:36 INFO  BaseSetup:24 - Üçüncü ürün silindi.
+2022-01-28 14:59:38 INFO  BaseSetup:27 - Ürünün silindiği doğrulandı.
+2022-01-28 14:59:42 INFO  BaseSetup:32 - Sepetime gidildi.
+2022-01-28 14:59:43 INFO  BaseSetup:27 - Ürün adedi artırıldı.
+2022-01-28 14:59:46 INFO  BaseSetup:30 - Alışveriş başladı.
+2022-01-28 15:00:29 ERROR BaseSetup:80 - Hata org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2fe8897ded66d87d4402fac52405e70e, findElement {using=xpath, value=//div[contains(text(),'YENİ MAH')]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53114}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53114/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2fe8897ded66d87d4402fac52405e70e
+2022-01-28 15:00:41 ERROR BaseSetup:29 - Hata org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2fe8897ded66d87d4402fac52405e70e, findElement {using=xpath, value=//a[@class="common-sprite" and text()='Merhaba ']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53114}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53114/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2fe8897ded66d87d4402fac52405e70e
+2022-01-28 15:03:57 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 15:03:57 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 15:04:03 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 15:04:05 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 15:04:09 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 15:04:17 INFO  BaseSetup:38 - Favorilerime dört ürün eklendi
+2022-01-28 15:04:20 ERROR BaseSetup:46 - Hata:org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7adc5f9532cf2a601acff79ee7899289, clickElement {id=84f91e9f-0ecd-4807-a823-6ba5ae6c2b21}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53510}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53510/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (7adc5f9532cf2a601acff79ee7899289)] -> xpath: //a[contains(text(),'Favorilerim')]]
+Session ID: 7adc5f9532cf2a601acff79ee7899289
+2022-01-28 15:05:00 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 15:05:00 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 15:05:16 ERROR BaseSetup:38 - Hata: org.openqa.selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ac0e4d8de70962e5c633255ce60ddc0d, findElement {using=id, value=login-email}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53609}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:53609/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ac0e4d8de70962e5c633255ce60ddc0d
+2022-01-28 15:05:38 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 15:05:38 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 15:05:44 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 15:05:45 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 15:05:49 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 15:06:23 ERROR BaseSetup:46 - Hata:org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //a[@class='add-to-favorites' and contains(@onclick,'addToFavorites(561234);')] (tried for 30 second(s) with 300 milliseconds interval)
+2022-01-28 15:36:11 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 15:36:11 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 15:36:17 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 15:36:19 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 15:36:23 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 15:36:31 INFO  BaseSetup:38 - Favorilerime dört ürün eklendi
+2022-01-28 15:36:35 INFO  BaseSetup:43 - Favorilerime gidildi.
+2022-01-28 15:36:37 INFO  BaseSetup:26 - Favorilere eklenemiş ürün adedi doğrulandı.
+2022-01-28 15:36:39 INFO  BaseSetup:29 - Anasayfaya gidildi.
+2022-01-28 15:36:41 INFO  BaseSetup:25 - Puan kataloğu açıldı
+2022-01-28 15:36:44 INFO  BaseSetup:28 - Türk klasikleri açıldı.
+2022-01-28 15:36:48 INFO  BaseSetup:33 - Yüksek oylama filtresi uygulandı.
+2022-01-28 15:36:52 INFO  BaseSetup:38 - Tüm kitaplar altından hobi katagorisi seçildi.
+2022-01-28 15:36:56 INFO  BaseSetup:43 - Rastegele ürün seçildi.
+2022-01-28 15:37:00 INFO  BaseSetup:48 - Favorilerime gidildi
+2022-01-28 15:37:02 INFO  BaseSetup:25 - Üçüncü ürün silindi.
+2022-01-28 15:37:03 INFO  BaseSetup:28 - Ürünün silindiği doğrulandı.
+2022-01-28 15:37:07 INFO  BaseSetup:33 - Sepetime gidildi.
+2022-01-28 15:37:08 INFO  BaseSetup:27 - Ürün adedi artırıldı.
+2022-01-28 15:37:11 INFO  BaseSetup:30 - Alışveriş başladı.
+2022-01-28 15:37:41 ERROR BaseSetup:80 - Hata org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //a[@onclick="setShippigAddressType('new')"] (tried for 30 second(s) with 300 milliseconds interval)
+2022-01-28 15:37:41 ERROR BaseSetup:29 - Hata org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cc14f32c034608de9e1c3f891499e66b, clickElement {id=ed494eba-5bef-4d34-bd98-22b92596fc41}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54232}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54232/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (cc14f32c034608de9e1c3f891499e66b)] -> xpath: //a[contains(text(),'Çıkış')]]
+Session ID: cc14f32c034608de9e1c3f891499e66b
+2022-01-28 15:47:07 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 15:47:46 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 15:47:46 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 15:47:52 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 15:47:53 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 15:47:57 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 15:48:05 INFO  BaseSetup:38 - Favorilerime dört ürün eklendi
+2022-01-28 15:48:09 INFO  BaseSetup:43 - Favorilerime gidildi.
+2022-01-28 15:48:11 INFO  BaseSetup:26 - Favorilere eklenemiş ürün adedi doğrulandı.
+2022-01-28 15:48:13 INFO  BaseSetup:29 - Anasayfaya gidildi.
+2022-01-28 15:48:15 INFO  BaseSetup:25 - Puan kataloğu açıldı
+2022-01-28 15:48:18 INFO  BaseSetup:28 - Türk klasikleri açıldı.
+2022-01-28 15:48:22 INFO  BaseSetup:33 - Yüksek oylama filtresi uygulandı.
+2022-01-28 15:48:26 INFO  BaseSetup:38 - Tüm kitaplar altından hobi katagorisi seçildi.
+2022-01-28 15:48:30 INFO  BaseSetup:43 - Rastegele ürün seçildi.
+2022-01-28 15:48:34 INFO  BaseSetup:48 - Favorilerime gidildi
+2022-01-28 15:48:36 INFO  BaseSetup:25 - Üçüncü ürün silindi.
+2022-01-28 15:48:37 INFO  BaseSetup:28 - Ürünün silindiği doğrulandı.
+2022-01-28 15:48:41 INFO  BaseSetup:33 - Sepetime gidildi.
+2022-01-28 15:48:42 INFO  BaseSetup:27 - Ürün adedi artırıldı.
+2022-01-28 15:48:45 INFO  BaseSetup:30 - Alışveriş başladı.
+2022-01-28 15:49:15 ERROR BaseSetup:80 - Hata org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.xpath: //a[@onclick="setShippigAddressType('new')"] (tried for 30 second(s) with 300 milliseconds interval)
+2022-01-28 15:49:16 INFO  BaseSetup:25 - Çıkış yapıldı.
+2022-01-28 15:49:16 INFO  BaseSetup:26 - ----------TEST SONU----------
+2022-01-28 15:59:40 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 15:59:40 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 15:59:46 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 15:59:47 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 15:59:51 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 15:59:59 INFO  BaseSetup:38 - Favorilerime dört ürün eklendi
+2022-01-28 16:00:03 INFO  BaseSetup:43 - Favorilerime gidildi.
+2022-01-28 16:00:05 INFO  BaseSetup:26 - Favorilere eklenemiş ürün adedi doğrulandı.
+2022-01-28 16:00:09 INFO  BaseSetup:29 - Anasayfaya gidildi.
+2022-01-28 16:00:11 INFO  BaseSetup:25 - Puan kataloğu açıldı
+2022-01-28 16:00:14 INFO  BaseSetup:28 - Türk klasikleri açıldı.
+2022-01-28 16:00:18 INFO  BaseSetup:33 - Yüksek oylama filtresi uygulandı.
+2022-01-28 16:00:22 INFO  BaseSetup:38 - Tüm kitaplar altından hobi katagorisi seçildi.
+2022-01-28 16:00:27 INFO  BaseSetup:43 - Rastegele ürün seçildi.
+2022-01-28 16:00:30 INFO  BaseSetup:48 - Favorilerime gidildi
+2022-01-28 16:00:32 INFO  BaseSetup:25 - Üçüncü ürün silindi.
+2022-01-28 16:00:34 INFO  BaseSetup:28 - Ürünün silindiği doğrulandı.
+2022-01-28 16:00:37 INFO  BaseSetup:33 - Sepetime gidildi.
+2022-01-28 16:00:40 INFO  BaseSetup:29 - Ürün adedi artırıldı.
+2022-01-28 16:00:43 ERROR BaseSetup:82 - Hata org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <a href="https://www.kitapyurdu.com/index.php?route=checkout/checkout" class="button red">...</a> is not clickable at point (1130, 368). Other element would receive the click: <div class="swal2-container swal2-top-end ky-swal-cr swal2-backdrop-show" style="overflow-y: auto;">...</div>
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9973cf4b6caee7697c9340f27d3b1e34, clickElement {id=99238a26-3987-4d5c-8187-1d793929df90}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55141}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55141/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (9973cf4b6caee7697c9340f27d3b1e34)] -> xpath: //a[@class="button red"]]
+Session ID: 9973cf4b6caee7697c9340f27d3b1e34
+2022-01-28 16:00:44 INFO  BaseSetup:25 - Çıkış yapıldı.
+2022-01-28 16:00:44 INFO  BaseSetup:26 - ----------TEST SONU----------
+2022-01-28 16:02:22 INFO  BaseSetup:24 - -------------KİTAP YURDU SİTESİ TEST OTOMASYONU-------------
+2022-01-28 16:02:22 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 16:02:28 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 16:02:29 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 16:02:33 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 16:02:41 INFO  BaseSetup:38 - Favorilerime dört ürün eklendi
+2022-01-28 16:02:45 INFO  BaseSetup:43 - Favorilerime gidildi.
+2022-01-28 16:02:47 INFO  BaseSetup:26 - Favorilere eklenemiş ürün adedi doğrulandı.
+2022-01-28 16:02:49 INFO  BaseSetup:29 - Anasayfaya gidildi.
+2022-01-28 16:02:51 INFO  BaseSetup:25 - Puan kataloğu açıldı
+2022-01-28 16:02:54 INFO  BaseSetup:28 - Türk klasikleri açıldı.
+2022-01-28 16:02:58 INFO  BaseSetup:33 - Yüksek oylama filtresi uygulandı.
+2022-01-28 16:03:02 INFO  BaseSetup:38 - Tüm kitaplar altından hobi katagorisi seçildi.
+2022-01-28 16:03:06 INFO  BaseSetup:43 - Rastegele ürün seçildi.
+2022-01-28 16:03:10 INFO  BaseSetup:48 - Favorilerime gidildi
+2022-01-28 16:03:11 INFO  BaseSetup:25 - Üçüncü ürün silindi.
+2022-01-28 16:03:13 INFO  BaseSetup:28 - Ürünün silindiği doğrulandı.
+2022-01-28 16:03:17 INFO  BaseSetup:33 - Sepetime gidildi.
+2022-01-28 16:03:20 INFO  BaseSetup:29 - Ürün adedi artırıldı.
+2022-01-28 16:03:22 INFO  BaseSetup:32 - Alışveriş başladı.
+2022-01-28 16:03:27 INFO  BaseSetup:48 - Kişisel bilgiler dolduruldu.
+2022-01-28 16:03:29 INFO  BaseSetup:51 - Korgo seçimine ilerlendi.
+2022-01-28 16:03:31 INFO  BaseSetup:54 - Kargo seçimi yapıldı.
+2022-01-28 16:03:33 INFO  BaseSetup:65 - Kredi kartı bilgileri girildi.
+2022-01-28 16:03:34 INFO  BaseSetup:68 - Kredi kartı onaylandı.
+2022-01-28 16:03:36 INFO  BaseSetup:71 - Alışveriş sözleşmesi okundu.
+2022-01-28 16:03:37 INFO  BaseSetup:74 - Alışveriş tamamlandı.
+2022-01-28 16:03:59 INFO  BaseSetup:76 - Alışveriş Başarısız -- Yetersiz Bakiye (Doğrulandı).
+2022-01-28 16:04:01 INFO  BaseSetup:79 - Anasayfaya gidildi.
+2022-01-28 16:04:02 INFO  BaseSetup:25 - Çıkış yapıldı.
+2022-01-28 16:04:02 INFO  BaseSetup:26 - **************************TEST SONU*************************
+2022-01-28 16:18:48 INFO  BaseSetup:24 - *************KİTAP YURDU SİTESİ TEST OTOMASYONU*************
+2022-01-28 16:18:48 INFO  BaseSetup:26 - Anasayfa açıldı.
+2022-01-28 16:18:54 INFO  BaseSetup:30 - Giriş yapıldı.
+2022-01-28 16:18:56 INFO  BaseSetup:32 - Giriş yapıldığı doğrulandı
+2022-01-28 16:19:00 INFO  BaseSetup:27 - Oyuncak aratıldı
+2022-01-28 16:19:03 ERROR BaseSetup:46 - Hata:org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=97.0.4692.99)
+Build info: version: '4.1.1', revision: 'e8fcc2cecf'
+System info: host: 'DESKTOP-0SV2QON', ip: '192.168.1.40', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d445fe80390de4ddf0b745117bcb7464, clickElement {id=02631b98-ee3e-4e2c-bfce-492869753830}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 97.0.4692.99, chrome: {chromedriverVersion: 96.0.4664.45 (76e4c1bb2ab46..., userDataDir: C:\Users\TESTIN~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:55550}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55550/devtoo..., se:cdpVersion: 97.0.4692.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (d445fe80390de4ddf0b745117bcb7464)] -> xpath: //a[@class='add-to-favorites' and contains(@onclick,'addToFavorites(579686);')]]
+Session ID: d445fe80390de4ddf0b745117bcb7464
