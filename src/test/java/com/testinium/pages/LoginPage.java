@@ -24,7 +24,7 @@ public class LoginPage {
             methods.click(By.xpath("//a[contains(text(),'Giriş Yap')]"));
             methods.waitBySeconds(1);
             methods.sendKey(By.id("login-email"),"omercagrialin@gmail.com");
-            methods.sendKey(By.id("login-password"),"cacaron5");
+            methods.sendKey(By.id("login-password"),"*********");
             methods.waitBySeconds(1);
             methods.click(By.xpath("//button[contains(text(),'Giriş Yap')]"));
             logger.info("Giriş yapıldı.");
