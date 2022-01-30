@@ -41,10 +41,10 @@ public class BasketPage {
             methods.waitBySeconds(1);
             methods.sendKey(By.xpath("//input[@id=\"district\"]"),"YENİ MAH");
             methods.click(By.xpath("//div[contains(text(),'YENİ MAH')]"));
-            methods.sendKey(By.id("address-address-text"),"20 TEMMUZ Caddesi no 41");
+            methods.sendKey(By.id("address-address-text"),"**************i no 41");
             methods.sendKey(By.id("address-postcode"),"31440");
-            methods.sendKey(By.id("address-telephone"),"5446788386");
-            methods.sendKey(By.id("address-mobile-telephone"),"5446788386");
+            methods.sendKey(By.id("address-telephone"),"**********");
+            methods.sendKey(By.id("address-mobile-telephone"),"**********");
             //methods.sendKey(By.id("address-tax-id"),"11111111111");
             logger.info("Kişisel bilgiler dolduruldu.");
             methods.waitBySeconds(2);
